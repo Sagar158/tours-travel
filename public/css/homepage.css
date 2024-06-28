@@ -1,0 +1,125 @@
+#qooqeefullscreenvideo {
+    width: 100%;
+    height: 100%;
+    }
+    html, body {
+    padding: 0;
+    margin: 0;
+    }
+    .dot {
+    background: url( );
+    opacity: 1;
+    height: 100%;
+    width: 100%;
+    position: fixed;
+    overflow-y:hidden;
+    top: 0;
+    left: 0;
+    z-index: -999;
+    }
+    .u20714no-fall {
+        position: absolute;
+        background: url("../assets/demo001a.jpg");
+        background-size: cover;
+        background-position: 50% 50%;
+        height: 100%;
+        width: 100%;
+        top: 0;
+        left: 0;
+        z-index: 1;
+        background-attachment: fixed;
+    }
+    .u20714ios-fall {
+        position: absolute;
+        background: url("../assets/demo001a.jpg");
+        background-size: cover;
+        background-position: 50% 50%;
+        height: 100%;
+        width: 100%;
+        top: 0;
+        left: 0;
+        z-index: 1;
+        background-attachment: scroll;
+    }
+    .u20714jarallax {
+        position: relative;
+        top: 0;
+        left: 0;
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: 50% 50%;
+        z-index: 2 !important;
+        -webkit-transform-origin: center center;
+        transform-origin: center center;
+    }
+    .u20714jarallax {
+        min-height: 100%;
+    }
+    [id^=jarallax-container] > div {
+        transform-origin: center center !important;
+    }
+    #u20714skprlbgPattern {
+        background-image: url("../assets/empty-image-placeholder2.png");
+        position: absolute;
+        background-repeat: repeat;
+        opacity: 0.6;
+        left: 0px;
+        top: 0px;
+        width: 100%;
+        height: 100%;
+        z-index: 3 !important;
+    }
+
+
+    .u20715no-fall {
+        position: absolute;
+        background: url("../assets/demo001b.jpg");
+        background-size: cover;
+        background-position: 50% 50%;
+        height: 100%;
+        width: 100%;
+        top: 0;
+        left: 0;
+        z-index: 1;
+        background-attachment: fixed;
+    }
+    .u20715ios-fall {
+        position: absolute;
+        background: url("../assets/demo001b.jpg");
+        background-size: cover;
+        background-position: 50% 50%;
+        height: 100%;
+        width: 100%;
+        top: 0;
+        left: 0;
+        z-index: 1;
+        background-attachment: scroll;
+    }
+    .u20715jarallax {
+        position: relative;
+        top: 0;
+        left: 0;
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: 50% 50%;
+        z-index: 2 !important;
+        -webkit-transform-origin: center center;
+        transform-origin: center center;
+    }
+    .u20715jarallax {
+        min-height: 100%;
+    }
+    [id^=jarallax-container] > div {
+        transform-origin: center center !important;
+    }
+    #u20715skprlbgPattern {
+        background-image: url("../assets/empty-image-placeholder2.png");
+        position: absolute;
+        background-repeat: repeat;
+        opacity: 0.6;
+        left: 0px;
+        top: 0px;
+        width: 100%;
+        height: 100%;
+        z-index: 3 !important;
+    }
